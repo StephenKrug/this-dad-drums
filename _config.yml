@@ -20,7 +20,7 @@ header:
       url: /about
       style: link
     - type: action
-      label: Style Guide
+      label: Hardware and kits
       url: /style-guide
       style: link
     - type: action
