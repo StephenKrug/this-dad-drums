@@ -16,7 +16,7 @@ header:
       url: /
       style: link
     - type: action
-      label: About
+      label: DAWs and VSTs
       url: /about
       style: link
     - type: action
