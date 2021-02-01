@@ -1,5 +1,5 @@
 ---
-title: Basic Rules For Walking In The Mountains
+title: How to get more life out of an old (cheap) e-drum kit.
 date: '2019-04-09'
 thumb_img_path: images/1.jpg
 content_img_path: images/1.jpg
